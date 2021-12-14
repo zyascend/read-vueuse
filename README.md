@@ -7,4 +7,5 @@
 - [useEventListener](https://github.com/zyascend/read-vueuse/blob/main/useEventListener.md)
 - [useActiveElement](https://github.com/zyascend/read-vueuse/blob/main/useActiveElement.md)
 - [useClipboard](https://github.com/zyascend/read-vueuse/blob/main/useClipboard.md)
+- [useFetch](https://github.com/zyascend/read-vueuse/blob/main/useFetch.md)
 
